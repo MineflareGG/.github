@@ -15,6 +15,6 @@
 </kbd>
 <br/>
 <br/>
-Mineflare is an in-development Skyblock Minecraft server, planned with a magnitude of custom features. Come join our community whilst we continue to develop!
+Mineflare is an in-development Minecraft Network, planned with a magnitude of custom features. Come join our community whilst we continue to develop!
 
 </div>
